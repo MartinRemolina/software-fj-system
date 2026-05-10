@@ -28,7 +28,7 @@ Simular operaciones válidas e inválidas sin interrumpir la ejecución del sist
 
 Tecnologías Utilizadas
 
-Python 3
+Python 3 (Visual Studio Code)
 Programación Orientada a Objetos (POO)
 Biblioteca estándar de Python
 Manejo de archivos
